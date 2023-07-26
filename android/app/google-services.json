@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "625112402974",
+    "project_id": "onegas-95f65",
+    "storage_bucket": "onegas-95f65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625112402974:android:98ae88787ca57dbdd8f20f",
+        "android_client_info": {
+          "package_name": "com.mycompany.onegas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625112402974-70b5lbeouskta3suod7dvua599gu2v2i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.onegas",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "625112402974-gfmsg4rj5q5hi3lfvh6hefhig53oo1d9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHFQ5nY3lsNJSiYEaFOkABODd2ovEtYsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625112402974-gfmsg4rj5q5hi3lfvh6hefhig53oo1d9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "625112402974-aj8loce2qfel2jd6hg8ch59l13qo7149.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.onegas"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

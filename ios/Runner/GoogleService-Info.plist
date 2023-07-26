@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>625112402974-aj8loce2qfel2jd6hg8ch59l13qo7149.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.625112402974-aj8loce2qfel2jd6hg8ch59l13qo7149</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>625112402974-70b5lbeouskta3suod7dvua599gu2v2i.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCbdKXi_HrYe8Ek6DfP5PoUBaEC4heUlio</string>
+	<key>GCM_SENDER_ID</key>
+	<string>625112402974</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.onegas</string>
+	<key>PROJECT_ID</key>
+	<string>onegas-95f65</string>
+	<key>STORAGE_BUCKET</key>
+	<string>onegas-95f65.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:625112402974:ios:19d4cc087e1057cbd8f20f</string>
+</dict>
+</plist>
